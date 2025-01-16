@@ -1,0 +1,49 @@
+
+h1{
+    font-family:Cooper Black;
+    text-decoration:underline;
+    text-align:center;
+    margin:20px;
+    padding:20px;
+  }
+  h2{
+   font-family:Cooper Black; 
+  }
+  #image{
+    max-width:100%;
+    display:block;
+  }
+  #image:hover{
+    box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.6);
+  }
+  figcaption{
+    padding:10px;
+    margin:auto 0;
+  font-weight:800;
+  border-bottom:5px dashed grey;
+  border-radius:50px;
+  margin:20px;
+  text-align:center;
+  font-family:sans-serif;
+  }
+  #tribute-info{
+    font-size:20px;
+    margin:20px;
+    padding:10px;
+    
+  }
+  a:hover{
+  color:black;
+  text-decoration:underline;
+  }
+  a:active{
+    color:green;
+  }
+  a{
+    color:rgba(0, 0, 0, 0.6);
+    text-decoration:none;
+  
+  background-color:rgba(0, 0, 0, 0.6);
+    color:white;
+    margin:5px;
+  }
